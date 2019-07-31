@@ -1,0 +1,26 @@
+p{
+
+font-size:50px;
+color:red;
+font-family:monospace;
+
+}
+#demo{
+color : black;
+background: pink;
+
+}
+button{
+font-size: 50px;
+border: 20px;
+border-radius: 20px;
+
+}
+h1{
+
+  align-self: center;
+}
+
+body{
+  background: black;
+}
